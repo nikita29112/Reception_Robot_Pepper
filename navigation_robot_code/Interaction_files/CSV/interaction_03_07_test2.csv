@@ -1,0 +1,47 @@
+,,,NEW PERSON,,
+03-07-2023 16:05,,Hello there! How can I assist you today?,,,0
+03-07-2023 16:05,,Hello there! How can I assist you today?,,,1
+,,,NEW PERSON,,
+03-07-2023 16:06,,Hello! How can I assist you today?,,,0
+03-07-2023 16:06,,Hello! How can I assist you today?,,,1
+03-07-2023 16:07,,Hello there! How can I assist you today?,,,2
+,,,NEW PERSON,,
+03-07-2023 16:17,,Hello! How can I assist you today?,,,0
+03-07-2023 16:17,,Hello there! How can I assist you today?,,,1
+03-07-2023 16:17,,Hello! How can I assist you today?,,,2
+03-07-2023 16:17,,Hello! How can I assist you today?,,,3
+,,,QUIT,,
+,,,QUIT,,
+,,,QUIT,,
+03-07-2023 16:19,I mean,Hello there! How can I assist you today?,,,0
+03-07-2023 16:19,what's your name,Hello! My name is Pepper. How can I assist you today?,,,1
+03-07-2023 16:20,where do you stay,"I am Pepper, and I stay at the SAIL Lab on the 11th floor of the NU Building.",,,2
+03-07-2023 16:20,Medical,Hello! How can I assist you today? Are you looking for directions to a specific medical facility or department within the university? Please provide me with the name or specific location you are looking for.,,,3
+03-07-2023 16:20,where is the say love,"I'm sorry, but I don't have the location for ""say love"" in my database. Could you please provide more information or clarify what you mean by ""say love""?",,,4
+03-07-2023 16:20,the sail lab,"The SAIL Lab is located on the 11th floor of Wing A. The lifts for Wing A are straight ahead and to the left, near the other entrance. Is there anything else I can help you with?",,,5
+03-07-2023 16:21,who stays there,"Hello! Welcome to the reception. I'm Pepper, the friendly robot here to assist you. How can I help you today?",,,6
+03-07-2023 16:21,where can I get a coffee,You can find the closest coffee machine on the 1st floor. Just take the stairs to the 1st floor and turn right. Enjoy your coffee!,,,7
+03-07-2023 16:21,what else is on the first floor,"On the first floor, you can find the cafeteria, study areas, a silent study area, a balcony, and the closest coffee machine and printer. Is there anything specific you are looking for on the first floor?",,,8
+03-07-2023 16:22,yes,Hello there! How can I assist you today?,,,9
+,,,QUIT,,
+,,,QUIT,,
+03-07-2023 16:27,hello,Hello! Welcome to Friye University Amsterdam. How can I assist you today?,,,0
+03-07-2023 16:27,what's your name,"Hello! I am Pepper, your friendly robot assistant. How can I help you today?",,,1
+03-07-2023 16:27,where do you stay,I am stationed at the SAIL Lab on the 11th floor of the NU building. Is there anything specific you would like to know or ask?,,,2
+03-07-2023 16:28,Where is the,"Sure, I can help you with that. Please complete your sentence and let me know what specific place or location you are looking for.",,,3
+03-07-2023 16:28,where is the sale lab,"The SAIL Lab is located on the 11th floor of Wing A in the NU building. You can reach it by taking the lifts straight ahead and to the left, near the other entrance. Is there anything else you would like to know?",,,4
+,END,,,,
+03-07-2023 16:30,bye,"Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!",,,0
+03-07-2023 16:31,hello,Hello! How can I assist you today?,,,1
+03-07-2023 16:31,is the mainbuilding,"Yes, the Main Building is located on the campus. How can I help you with the Main Building?",,,2
+03-07-2023 16:31,what can I find there,"The Main Building houses various facilities on its ground floor. You can find the VU Bookstore, the Library, the IT Desk, the Security Desk, and the Student Desk there. Is there anything specific you are looking for in the Main Building?",,,3
+03-07-2023 16:31,yes,"Sure! Could you please let me know what specific facility or room you are looking for in the Main Building? That way, I can provide you with more accurate directions.",,,4
+,,,INVITE: Greetings! Looking for some information or directions? Just ask me.,,
+03-07-2023 16:35,meeting room looking for some information or directions just ask me,"Hello there! How can I assist you today? If you need any information or directions, please let me know.",,,0
+03-07-2023 16:36,hi where are you standing,"Hello! I am Pepper, and I am currently standing at the reception located on the ground floor of the New building near the entrance at Friye University Amsterdam. How can I assist you today?",,,1
+03-07-2023 16:36,what stores are nearby,"Nearby, we have a Spar store located at the campus square close to the basketball court. Additionally, there is an Albert Hein To Go grocery store about 350 meters away. If you need any specific information or directions, feel free to ask!",,,2
+03-07-2023 16:36,which one do you recommend,"Both the Spar store and Albert Hein To Go are convenient options for your needs. The Spar store is closer to the campus square, while Albert Hein To Go offers a wider range of grocery items. It ultimately depends on your preferences and what you're looking for. If you have any specific requirements or preferences, I can provide more tailored recommendations.",,,3
+,END,,,,
+03-07-2023 16:37,,Hello there! How can I assist you today?,,,4
+,,,"INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! ",,
+,,,NEW PERSON,,

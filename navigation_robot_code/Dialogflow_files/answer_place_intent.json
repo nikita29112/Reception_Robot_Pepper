@@ -1,0 +1,310 @@
+{
+  "id": "f66131b1-c59d-4619-a790-c0b5e1bddffc",
+  "name": "answer_place",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "answer_place",
+          "lifespan": 0
+        },
+        {
+          "name": "places",
+          "lifespan": 0
+        },
+        {
+          "name": "answer_place-followup",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "places",
+          "dataType": "@places",
+          "isList": false,
+          "required": true,
+          "prompts": [
+            "How can I help you?",
+            "Are you looking for a place? I can help you.",
+            "Hi, I'm pepper. How can I help you?"
+          ],
+          "value": "$places",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "resetContexts": true
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Where",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        },
+        {
+          "text": " is ",
+          "userDefined": false
+        },
+        {
+          "text": "room",
+          "userDefined": true,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "3ee7ac94-1b31-41c4-902c-55f36cc8c0e5",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Where can I find ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "57bbdb3c-f7c4-4889-92d7-1391a052fc8c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Give me directions to the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "b999e0db-61ab-4d6a-b765-b95bd86c7104",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Show me the way to the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "5ec6ca63-09f2-447f-9934-7492c7356eb1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "We are looking for the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "c592b77d-75f0-4879-abd4-60bce7c320da",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "How do I get to the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "c6df7f60-78e0-420c-87a5-1600ea58257a",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "do you where are the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        },
+        {
+          "text": "?",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "e198231b-c907-42b7-988d-622c625446a2",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Do you know where is the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "019dd0c0-ac71-498f-9cff-5d141b0d81ea",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Where is the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "4ddab746-7484-4fe8-976c-6d0ba29478d7",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I am looking for the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "670ec8d0-e6e7-423b-aebd-c1798b3add4b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "d7fa528c-8a0d-4882-b019-e76c41846caa",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "437fc289-b76f-48f1-a063-7b9280ddc6fe",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I want to go to the ",
+          "userDefined": false
+        },
+        {
+          "text": "place",
+          "userDefined": true,
+          "alias": "places",
+          "meta": "@places"
+        }
+      ],
+      "count": 0,
+      "id": "8681e478-086b-49c0-8e9b-d8c7c8a730ea",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

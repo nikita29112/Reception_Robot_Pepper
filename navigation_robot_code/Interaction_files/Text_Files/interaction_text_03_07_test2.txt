@@ -1,0 +1,21 @@
+START INTERACTION
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+USER: meeting room looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you need any information or directions, please let me know.
+
+Greeting Intent
+USER: hi where are you standing
+Pepper: Hello! I am Pepper, and I am currently standing at the reception located on the ground floor of the New building near the entrance at Friye University Amsterdam. How can I assist you today?
+
+USER: what stores are nearby
+Pepper: Nearby, we have a Spar store located at the campus square close to the basketball court. Additionally, there is an Albert Hein To Go grocery store about 350 meters away. If you need any specific information or directions, feel free to ask!
+
+USER: which one do you recommend
+Pepper: Both the Spar store and Albert Hein To Go are convenient options for your needs. The Spar store is closer to the campus square, while Albert Hein To Go offers a wider range of grocery items. It ultimately depends on your preferences and what you're looking for. If you have any specific requirements or preferences, I can provide more tailored recommendations.
+
+END
+Conversation Complete: User ended interaction
+USER: None
+Pepper: Hello there! How can I assist you today?
+

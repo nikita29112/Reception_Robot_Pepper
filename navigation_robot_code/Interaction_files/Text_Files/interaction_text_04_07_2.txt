@@ -1,0 +1,16 @@
+START INTERACTION
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+NEW PERSON
+USER: None
+Pepper: Hello there! How can I assist you today?
+
+NEW PERSON
+Place Recognized: you bring
+USER: None
+Pepper: No problem! If you have any questions or need assistance in the future, feel free to ask. Have a great day!
+
+Place Recognized: Toilet
+USER: None
+Pepper: Alright, take care and have a wonderful day! Don't hesitate to reach out if you need any help in the future. Goodbye!
+

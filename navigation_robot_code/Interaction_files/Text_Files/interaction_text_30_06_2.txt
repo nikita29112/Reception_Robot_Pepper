@@ -1,0 +1,185 @@
+START INTERACTION
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+NEW PERSON
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, and I'm here to assist you. How can I help you today? Do you need directions to a specific place on campus or do you have any questions? Just let me know and I'll be happy to assist you!
+
+Greeting Intent
+USER: how are you how are you how are you
+Pepper: I'm doing great! Thank you for asking. How can I assist you today?
+
+Comments: User: how are you
+USER: I am doing great doing thank you for asking
+Pepper: That's wonderful to hear! I'm here to assist you with any questions or directions you may need. How can I help you today?
+
+Place Recognized: 
+USER: where is superior to
+Pepper: I'm sorry, but I'm not sure what you mean by "superior to." Could you please provide more context or clarify your question?
+
+DROPOUT
+USER: where is superior to
+Pepper: I'm sorry, but I don't have any information about a place called "Superior to" in the provided directions. Could you please provide more details or clarify your request?
+
+Comments: floor 2 incorrectly recognized as 'superior to',  user walked off when Pepper gave incorrect response 
+IGNORED
+USER: where is superior to
+Pepper: I'm sorry, but I couldn't find any specific location or direction for "superior to" in the given places and directions. Could you please provide more information or clarify your request?
+
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you have any questions or need directions, feel free to ask!
+
+IGNORED
+IGNORED
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you're looking for information or directions, feel free to ask me.
+
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+NEW PERSON
+NEW PERSON
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you need any information or directions, feel free to ask me.
+
+Place Recognized: I
+USER: how do I get to florify
+Pepper: Florify is not a known place in the provided list. Could you please provide more information or clarify the name of the place you are looking for?
+
+DROPOUT
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you need any information or directions, feel free to ask.
+
+Comments: User walked off mid interaction
+IGNORED
+IGNORED
+IGNORED
+Place Recognized: and give her your
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+IGNORED
+IGNORED
+USER: hi and give her your friendly robot companion and here's a chance
+Pepper: Hi there! I'm Pepper, your friendly robot companion. How can I assist you today?
+
+Place Recognized: I'm here
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+NEW PERSON
+USER: I need directions I feel like heading I'm here for you
+Pepper: Hello! I'm Pepper, here to assist you. How can I help you today? Do you need directions to a specific place on campus?
+
+Place Recognized: Main building
+USER: can you hear me
+Pepper: Hello! Yes, I can hear you. How can I assist you today?
+
+Place Recognized: you
+USER: how do I can you give me the directions of how to get from here to
+Pepper: Of course! I'd be happy to help you with directions. Please let me know the specific place you would like to go to, and I'll provide you with the directions.
+
+Place Recognized: I
+USER: how would I get to m f d 518
+Pepper: To get to room MFD518, you need to go to the MF Building. Take the exit right behind me, turn left, and follow the map for more details.
+
+END
+Conversation Complete: User ended interaction
+NEW PERSON
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How can I assist you today?
+
+Conversation Complete: User ended interaction
+USER: yes I'm working here
+Pepper: Hello there! Welcome to the NU Building! How can I assist you today?
+
+USER: what
+Pepper: Hello there! How can I assist you today?
+
+END
+Conversation Complete: User ended interaction
+USER: OK see you speaking Dutch
+Pepper: Hallo! Hoe kan ik je helpen vandaag?
+
+Conversation Complete: User ended interaction
+END
+Conversation Complete: User ended interaction
+USER: bye
+Pepper: Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!
+
+Conversation Complete: User ended interaction
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+USER: hey feel like having a conversation I'm here to listen and chant
+Pepper: Hey there! I'm always up for a friendly conversation. What's on your mind?
+
+Comments: pepper does not respond, even when transcript records user questions
+IGNORED
+IGNORED
+Place Recognized: I'm here
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+USER: I need directions are just kidding I'm here for you
+Pepper: Hello there! How can I assist you today? Whether you need directions or just want to chat, I'm here for you. How can I help you?
+
+Comments: Person smiles at Pepperand walks by
+IGNORED
+IGNORED
+USER: I need directions are just kidding I'm here for you
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. How can I assist you today?
+
+IGNORED
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+USER: hey do you like having a conversation
+Pepper: Hey there! As a friendly robot, I enjoy having conversations with people. How can I assist you today?
+
+IGNORED
+IGNORED
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+IGNORED
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello! How can I assist you today? If you're looking for information or directions, feel free to ask.
+
+IGNORED
+Place Recognized: I'm here
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+USER: I need directions are less I'm here for you
+Pepper: Hello there! I'm Pepper, the friendly robot at the reception. How can I assist you today? If you need directions or have any questions, feel free to ask!
+
+IGNORED
+IGNORED
+IGNORED
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+USER: Angry Bird your friend me real bad companion and here's a chance
+Pepper: Hello! I'm Pepper, your friendly robot assistant. How can I assist you today?
+
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+USER: Angry Bird your friend me real bad companion and here's a chance
+Pepper: Hello! I'm Pepper, your friendly robot assistant. How can I assist you today?
+
+NEW PERSON
+Greeting Intent
+USER: hello
+Pepper: Hello there! How can I assist you today?
+
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How can I assist you today?
+
+DROPOUT
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+IGNORED
+USER: hey do you like having a conversation I'm here to listen and chant
+Pepper: Hey there! I'm Pepper, the friendly robot at the reception. I'm always here to have a conversation and help you out with any questions or directions you may need. How can I assist you today?
+
+IGNORED
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+IGNORED
+IGNORED
+IGNORED
+USER: hey feel like having a conversation I'm here to listen and chant
+Pepper: Hey there! I'm Pepper, the friendly robot receptionist. I'm always up for a conversation. How can I assist you today?
+
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+USER: hey feel like having a conversation I'm here to listen and chant
+Pepper: Hey there! I'm Pepper, the friendly robot at the reception. I'm always up for a conversation. How can I assist you today?
+

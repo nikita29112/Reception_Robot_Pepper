@@ -1,0 +1,13 @@
+# URLs of map images
+floor_plan_toilets = 'https://prnt.sc/nuUPRWC1WvY4'
+floor_plan_lifta = 'https://prnt.sc/axr2bJPgoDGC'
+floor_plan_liftb = 'https://prnt.sc/sFhlk-MbpjaC'
+floor_plan_bg = 'https://prnt.sc/vOEF096O6plq'
+floor_plan_cafetaria = 'https://prnt.sc/3vprHF62F7k1'
+floor_plan_theatre1 = 'https://prnt.sc/pnd8pomqAACq'
+floor_plan_theatre2 = 'https://prnt.sc/c1glmajAlA-l'
+floor_plan_floor2_theatre3 = 'https://prnt.sc/bJgt0EXOB37J'
+floor_plan_floor2_theatre45 = 'https://prnt.sc/aNnAZKfoKP7h'
+floor_plan_secondfloor = 'https://prnt.sc/pishhugsMgQA'
+floor_plan_campus = 'https://prnt.sc/Bh_4tIcqYDL4'
+start_screen = 'https://prnt.sc/lk-HffAQfy8y'

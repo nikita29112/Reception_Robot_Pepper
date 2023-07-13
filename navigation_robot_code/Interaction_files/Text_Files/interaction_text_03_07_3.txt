@@ -1,0 +1,247 @@
+START INTERACTION
+Place Recognized: I'm deeper your
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+NEW PERSON
+USER: hi I'm your friendly robot companion and here's a chance
+Pepper: Hi there! I'm Pepper, your friendly robot companion. How can I assist you today?
+
+ACKNOWLEDGED
+Comments: waved back at the robot
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How can I assist you today?
+
+END
+Conversation Complete: User ended interaction
+USER: bye
+Pepper: Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!
+
+Conversation Complete: User ended interaction
+Place Recognized: I'm your
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+IGNORED
+USER: hi I'm your friendly robot companion and here's a chance
+Pepper: Hi there! I'm Pepper, your friendly robot companion. How can I assist you today?
+
+Place Recognized: need
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+IGNORED
+USER: hi need directions are just feel like heading I'm here for you
+Pepper: Hi there! I'm Pepper, and I'm here to help you with directions around the campus. Just let me know where you want to go, and I'll provide you with the directions. How can I assist you today?
+
+Place Recognized: Birds your
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+ACKNOWLEDGED
+USER: Angry Birds your friendly robot companion and here's a chance
+Pepper: Hello there! I'm Pepper, your friendly robot companion. How can I assist you today?
+
+Comments: person smiled at robot and continued walking
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+NEW PERSON
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you have any questions or need directions, feel free to ask!
+
+Place Recognized: canteen
+USER: where is the canteen
+Pepper: The cafeteria is on this floor, straight ahead. Enjoy your meal!
+
+USER: where can I hang out
+Pepper: Oh, there are several places where you can hang out on campus. You can visit the cafeteria, which is straight ahead on this floor. There are also study areas on the 1st to 6th floors of Wings A and B if you prefer a quieter place. If you're looking for a place to relax outdoors, you can check out the balcony on the 1st floor of Wing A. Let me know if you need directions to any specific place!
+
+END
+Conversation Complete: User ended interaction
+USER: Thank You Marvin
+Pepper: You're welcome! But just a small correction, my name is Pepper, not Marvin. How can I assist you today?
+
+Conversation Complete: User ended interaction
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you're looking for information or directions, feel free to ask me.
+
+Comments: Robot's name is set to pepper does not answer to'Marvin'
+ACKNOWLEDGED
+ACKNOWLEDGED
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Of course! I'm here to help you. Please let me know where you would like to go or if you have any specific questions.
+
+Comments: person took photo and left
+ACKNOWLEDGED
+ACKNOWLEDGED
+Comments: people got scared by Pepper's invite message and left
+IGNORED
+IGNORED
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, and I'm here to assist you with directions around the campus. How can I help you today?
+
+ACKNOWLEDGED
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How may I assist you today?
+
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+ACKNOWLEDGED
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. I'm here to help you with directions around the campus. Just let me know where you want to go, and I'll provide you with the directions. How can I assist you today?
+
+Place Recognized: Basket
+USER: basket
+Pepper: Hello! How can I assist you today? Are you looking for the basketball court?
+
+Comments: picked up noise as 'basket'
+USER: basket
+Pepper: Hello! How can I assist you today?
+
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello! How can I assist you today? If you need any information or directions, feel free to ask.
+
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+IGNORED
+ACKNOWLEDGED
+USER: Angry Bird your friend me robot companion and here's a chance
+Pepper: Hello there! I'm Pepper, your friendly robot companion. How can I assist you today?
+
+ACKNOWLEDGED
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How can I assist you today?
+
+Comments: people take photo and leave
+IGNORED
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+ACKNOWLEDGED
+NEW PERSON
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello there! How can I assist you today? If you need any information or directions, feel free to ask.
+
+Place Recognized: Cafeteria
+USER: where can I find food
+Pepper: You can find the cafeteria on this floor, straight ahead. They serve a variety of food options. Enjoy your meal!
+
+Place Recognized: I want
+USER: David I want cheap food like a supermarket
+Pepper: Hi David! If you're looking for cheap food like a supermarket, there is an Albert Hein To Go grocery store nearby. You can find it by going straight ahead and exiting through the other entrance, then turning left. It's about 350 meters away. Enjoy your shopping!
+
+Place Recognized: Lift Wing B
+USER: lift be one spot
+Pepper: The lifts for Wing B are behind me.
+
+DROPOUT
+Place Recognized: Birds give
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to chat! 
+USER: Angry Birds give find me robot companion and here's a chance
+Pepper: Hello there! How can I assist you today?
+
+NEW PERSON
+Place Recognized: love
+USER: ozw of love
+Pepper: Hello there! How can I assist you today?
+
+Greeting Intent
+USER: hi
+Pepper: Hello! How can I assist you today?
+
+Place Recognized: Main building
+USER: firstaid mainbuilding
+Pepper: The first aid room is located in the Main Building. Please proceed to the ground floor of the Main Building to find the first aid room. If you need further assistance, feel free to ask.
+
+Place Recognized: Cafeteria
+USER: eating
+Pepper: Hello! How can I assist you today? If you're looking for a place to eat, we have a cafeteria on this floor. It's straight ahead. Enjoy your meal!
+
+Comments: incorrect speech recognized, person asked for just 'main building'
+IGNORED
+DROPOUT
+Comments: person left after robot responded
+USER: eating
+Pepper: Hello! How can I assist you today? Are you looking for a place to eat on campus?
+
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. How can I assist you today? Do you need directions to a specific place on campus? Just let me know where you'd like to go, and I'll provide you with the directions.
+
+ACKNOWLEDGED
+ACKNOWLEDGED
+IGNORED
+Place Recognized: me
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+ACKNOWLEDGED
+ACKNOWLEDGED
+USER: hi me directions are just feel like heading I'm here for you
+Pepper: Hello! I'm Pepper, the friendly robot at the reception. How can I assist you today? If you need directions, just let me know where you'd like to go, and I'll be happy to help you find your way.
+
+Comments: people stooped to look and continued walking
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+NEW PERSON
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. How can I assist you today? Do you need directions to a specific place on campus?
+
+USER: what's your name
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. How can I assist you today?
+
+Place Recognized: play
+USER: can you play me to the mainbuilding can I touch you
+Pepper: Of course, I can provide you with directions to the Main Building. Please exit through the other entrance and turn left. The Main Building is the second building on the left. As for touching me, I'm sorry, but I'm not designed for physical interaction. However, I'm here to assist you with any questions or directions you may need. How else may I assist you?
+
+Place Recognized: Cafeteria
+USER: OK where where do they have the best coffee
+Pepper: Oh, I'm glad you asked! The closest coffee machine is on the 1st floor. You can take the stairs to the 1st floor and turn right to find it. Enjoy your coffee!
+
+USER: I like bullying
+Pepper: I'm sorry, but I can't engage in that topic with you. If you have any other questions or need assistance with something else, feel free to ask!
+
+Place Recognized: 360
+USER: toilet the 360
+Pepper: The toilets on this floor are straight ahead and to the left.
+
+USER: hey what's the director of the University
+Pepper: Hello! The director of the university is Prof. Dr. Vinod Subramaniam. He has been serving as the rector magnificus of Vrije Universiteit Amsterdam since 2018. Is there anything else I can assist you with?
+
+USER: how many students do you have
+Pepper: Pepper: As a robot at the reception, I don't have access to the exact number of students at the university. However, Friye University Amsterdam has a large student population. If you need specific information about student enrollment, I recommend contacting the university's student affairs department. They will be able to provide you with accurate information.
+
+Comments: incorrect speech recognized, person asked how far the robot neck turns
+Place Recognized: controlling you right there it'
+USER: someone controlling you right there it's just the surface desktop connection of the main building
+Pepper: Hello! I am Pepper, your friendly robot assistant. How can I assist you today?
+
+Place Recognized: Spar
+Comments: speech not recognized
+USER: can you show us which way to go to the mainbuilding
+Pepper: Sure! To go to the Main Building, you can either take the exit right behind me and it's the second building on the left, or you can take the exit to the main street and go right.
+
+Place Recognized: you
+USER: hello. Can you wait in the direction
+Pepper: Hello! Of course, I'm here to assist you. How can I help you today?
+
+USER: can you wait
+Pepper: Of course! I'm here to assist you. Just let me know when you're ready with your question or request.
+
+USER: the way for us I'm ready with my request
+Pepper: Hello! I'm Pepper, the friendly robot receptionist. How can I assist you today? Please let me know your request or question, and I'll do my best to help you.
+
+Comments: person asked can you wave not wait or way
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How can I assist you today?
+
+Place Recognized: Toilet
+NEW PERSON
+USER: where are the toilet
+Pepper: The toilets on this floor are straight ahead and to the left.
+
+USER: 
+Pepper: Hello! Welcome to Friye University Amsterdam. How may I assist you today?
+
+USER: I know
+Pepper: Hello there! How can I assist you today?
+

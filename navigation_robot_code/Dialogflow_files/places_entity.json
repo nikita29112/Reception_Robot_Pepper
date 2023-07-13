@@ -1,0 +1,555 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": true,
+  "name": "places",
+  "automatedExpansion": true,
+  "entries": [
+    {
+      "value": "NU Building",
+      "synonyms": [
+        "New",
+        "New building",
+        "NU",
+        "NU Building"
+      ]
+    },
+    {
+      "value": "Toilet",
+      "synonyms": [
+        "toilet",
+        "bathroom",
+        "loo",
+        "restroom",
+        "wash",
+        "handwash",
+        "toilets",
+        "bathrooms"
+      ]
+    },
+    {
+      "value": "Lift",
+      "synonyms": [
+        "lift",
+        "lifts",
+        "elevator",
+        "elevators",
+        "floor",
+        "floors"
+      ]
+    },
+    {
+      "value": "Cafeteria",
+      "synonyms": [
+        "cafeteria",
+        "cafe",
+        "coffee",
+        "restraunt",
+        "to eat",
+        "eating",
+        "cake",
+        "food",
+        "lunch"
+      ]
+    },
+    {
+      "value": "Cinema",
+      "synonyms": [
+        "cinema",
+        "movie",
+        "theaters",
+        "theater",
+        "cinemas",
+        "movies",
+        "theatre",
+        "lecture hall",
+        "lecture room"
+      ]
+    },
+    {
+      "value": "lecture",
+      "synonyms": [
+        "lecture",
+        "lecture room",
+        "lecture rooms",
+        "lecture hall",
+        "lecture halls",
+        "classroom",
+        "classrooms"
+      ]
+    },
+    {
+      "value": "Study",
+      "synonyms": [
+        "study",
+        "study room",
+        "study place",
+        "work space",
+        "study space",
+        "quite room",
+        "quite rooms",
+        "study area",
+        "study areas",
+        "to study"
+      ]
+    },
+    {
+      "value": "Computer science",
+      "synonyms": [
+        "computer science department",
+        "network institute",
+        "computer scientists"
+      ]
+    },
+    {
+      "value": "Nursing",
+      "synonyms": [
+        "nursing",
+        "nursing room",
+        "nursery",
+        "nursery room"
+      ]
+    },
+    {
+      "value": "Hospital",
+      "synonyms": [
+        "hospital",
+        "MRI",
+        "medical"
+      ]
+    },
+    {
+      "value": "Mathematics",
+      "synonyms": [
+        "mathematics",
+        "maths",
+        "mathematics department",
+        "maths department"
+      ]
+    },
+    {
+      "value": "Environmental study",
+      "synonyms": [
+        "environment",
+        "environmental department",
+        "environmental studies",
+        "institute for environmental studies",
+        "environmentalists"
+      ]
+    },
+    {
+      "value": "parking",
+      "synonyms": [
+        "parking",
+        "parking garage",
+        "car parking",
+        "bike storage",
+        "garage",
+        "Car parking",
+        "Bike storage"
+      ]
+    },
+    {
+      "value": "room",
+      "synonyms": [
+        "room",
+        "room number"
+      ]
+    },
+    {
+      "value": "MF building",
+      "synonyms": [
+        "MFbuilding",
+        "mf building",
+        "mf",
+        "medical building"
+      ]
+    },
+    {
+      "value": "WN building",
+      "synonyms": [
+        "WNbuilding",
+        "wn building",
+        "w and n building",
+        "science building"
+      ]
+    },
+    {
+      "value": "Initium",
+      "synonyms": [
+        "Initium"
+      ]
+    },
+    {
+      "value": "Transitorium",
+      "synonyms": [
+        "Transitorium"
+      ]
+    },
+    {
+      "value": "Main building",
+      "synonyms": [
+        "Mainbuilding",
+        "Main building",
+        "HG",
+        "HG building",
+        "head building",
+        "head-building"
+      ]
+    },
+    {
+      "value": "Tent",
+      "synonyms": [
+        "Tent",
+        "T and T",
+        "tent builiding",
+        "T and T building",
+        "exam building"
+      ]
+    },
+    {
+      "value": "Bellevu",
+      "synonyms": [
+        "Bellevu"
+      ]
+    },
+    {
+      "value": "Basket",
+      "synonyms": [
+        "Basket"
+      ]
+    },
+    {
+      "value": "O2",
+      "synonyms": [
+        "O2",
+        "O2 builiding",
+        "O two building",
+        "O-two"
+      ]
+    },
+    {
+      "value": "Acta",
+      "synonyms": [
+        "Acta",
+        "dentist building",
+        "ACTA"
+      ]
+    },
+    {
+      "value": "Botanical garden",
+      "synonyms": [
+        "Botanicalgarden",
+        "botanical garden",
+        "garden",
+        "botanic"
+      ]
+    },
+    {
+      "value": "OZW",
+      "synonyms": [
+        "OZW",
+        "OZW building"
+      ]
+    },
+    {
+      "value": "Meeting rooms",
+      "synonyms": [
+        "Meetingrooms",
+        "meeting room",
+        "meeting rooms",
+        "Foyer"
+      ]
+    },
+    {
+      "value": "Firstaid",
+      "synonyms": [
+        "Firstaid",
+        "first aid",
+        "emergency"
+      ]
+    },
+    {
+      "value": "Spar",
+      "synonyms": [
+        "Spar",
+        "Spar supermarket",
+        "Spar shop",
+        "grocery store spar"
+      ]
+    },
+    {
+      "value": "Gym",
+      "synonyms": [
+        "Gym",
+        "sports center"
+      ]
+    },
+    {
+      "value": "Zuid Station",
+      "synonyms": [
+        "Zuid Station"
+      ]
+    },
+    {
+      "value": "Lift Wing A",
+      "synonyms": [
+        "Lift Wing A",
+        "lift A",
+        "lift a"
+      ]
+    },
+    {
+      "value": "Lift Wing B",
+      "synonyms": [
+        "Lift Wing B",
+        "lift B",
+        "lift be"
+      ]
+    },
+    {
+      "value": "VU Bus stop",
+      "synonyms": [
+        "VU Bus stop",
+        "bus stop"
+      ]
+    },
+    {
+      "value": "VU tram stop",
+      "synonyms": [
+        "VU tram stop",
+        "tram stop"
+      ]
+    },
+    {
+      "value": "Zuid Station (bus, tram, metro, and train)",
+      "synonyms": [
+        "Zuid Station (bus, tram, metro, and train)",
+        "Zuid station",
+        "station zuid"
+      ]
+    },
+    {
+      "value": "Coffee machine",
+      "synonyms": [
+        "Coffee machine",
+        "coffee machine"
+      ]
+    },
+    {
+      "value": "Printer",
+      "synonyms": [
+        "Printer",
+        "printer",
+        "scanner"
+      ]
+    },
+    {
+      "value": "Theater 1",
+      "synonyms": [
+        "Theater 1",
+        "theatre one"
+      ]
+    },
+    {
+      "value": "Theater 2",
+      "synonyms": [
+        "Theater 2",
+        "theater two",
+        "theatre to"
+      ]
+    },
+    {
+      "value": "Theater 3",
+      "synonyms": [
+        "Theater 3",
+        "theatre three"
+      ]
+    },
+    {
+      "value": "Theater 4",
+      "synonyms": [
+        "Theater 4",
+        "theatre for"
+      ]
+    },
+    {
+      "value": "Theater 5",
+      "synonyms": [
+        "Theater 5",
+        "theatre high"
+      ]
+    },
+    {
+      "value": "Theater 6",
+      "synonyms": [
+        "Theater 6",
+        "theatre six"
+      ]
+    },
+    {
+      "value": "Theater 7",
+      "synonyms": [
+        "Theater 7",
+        "theatre seven"
+      ]
+    },
+    {
+      "value": "Theater 8",
+      "synonyms": [
+        "Theater 8",
+        "theatre ate",
+        "theatre eight"
+      ]
+    },
+    {
+      "value": "Theater 9",
+      "synonyms": [
+        "Theater 9",
+        "theatre nine"
+      ]
+    },
+    {
+      "value": "Balcony",
+      "synonyms": [
+        "Balcony"
+      ]
+    },
+    {
+      "value": "Network Institute Tech Labs",
+      "synonyms": [
+        "Network Institute Tech Labs",
+        "Tech labs"
+      ]
+    },
+    {
+      "value": "Physical Computing Education Lab",
+      "synonyms": [
+        "Physical Computing Education Lab",
+        "Physical computing lab",
+        "Computing lab"
+      ]
+    },
+    {
+      "value": "Hardware/Multipurpose Lab",
+      "synonyms": [
+        "Hardware/Multipurpose Lab",
+        "Multipupose lab",
+        "Computer science hardware lab"
+      ]
+    },
+    {
+      "value": "Rialto/Griffoen Office",
+      "synonyms": [
+        "Rialto/Griffoen Office",
+        "Rialto Office",
+        "Griffoen office"
+      ]
+    },
+    {
+      "value": "Beta Common room",
+      "synonyms": [
+        "Beta Common room",
+        "Beta room"
+      ]
+    },
+    {
+      "value": "VU Education Lab",
+      "synonyms": [
+        "VU Education Lab",
+        "Education Lab"
+      ]
+    },
+    {
+      "value": "UCGB",
+      "synonyms": [
+        "UCGB",
+        "LEARN! Academy",
+        "VU Leranrenaacdamie",
+        "HOVO Amsterdam"
+      ]
+    },
+    {
+      "value": "Marketing",
+      "synonyms": [
+        "Marketing",
+        "Marketing  and Communication department",
+        "Beta partners",
+        "marketing department",
+        "communcation department",
+        "marketing and communication beta"
+      ]
+    },
+    {
+      "value": "Robot Lab",
+      "synonyms": [
+        "Robot Lab"
+      ]
+    },
+    {
+      "value": "Basketball court",
+      "synonyms": [
+        "Basketball court",
+        "Basketball"
+      ]
+    },
+    {
+      "value": "Volleyball court",
+      "synonyms": [
+        "Volleyball court",
+        "Volleyball",
+        "beach volleyball"
+      ]
+    },
+    {
+      "value": "IT Desk",
+      "synonyms": [
+        "IT Desk",
+        "Tech Support",
+        "IT Support",
+        "IT Information"
+      ]
+    },
+    {
+      "value": "Security Desk",
+      "synonyms": [
+        "Security Desk",
+        "Security",
+        "Security Information"
+      ]
+    },
+    {
+      "value": "Grocery",
+      "synonyms": [
+        "Grocery",
+        "Grocery store",
+        "Albert Hein",
+        "Ava time"
+      ]
+    },
+    {
+      "value": "Reception Desk",
+      "synonyms": [
+        "Reception Desk",
+        "reception",
+        "information desk",
+        "information"
+      ]
+    },
+    {
+      "value": "Stairs",
+      "synonyms": [
+        "Stairs",
+        "staircase"
+      ]
+    },
+    {
+      "value": "Escalator",
+      "synonyms": [
+        "Escalator"
+      ]
+    }
+  ],
+  "id": "5a8e0676-6adf-4a45-bf18-f87d9f2f0e96",
+  "isOverridable": false
+}

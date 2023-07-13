@@ -1,0 +1,17 @@
+{
+    "Main Building": ["HG building", "Head building"],
+    "Tent": ["T and T building", "Exam Tent building"],
+    "O2": ["O two building", "O to building"],
+    "MF Building": ["Medical building", "Medical faculty", "Medicine building"],
+    "Environmental study": ["Institute of environmental study", "IVM Department"],
+    "Computer science": "The Network Institute",
+    "SAIL AI Lab": "Social robotics lab",
+    "Theater": "lecture hall",
+    "UCGB": ["LEARN! Academy", "VU Leranrenaacdamie", "HOVO Amsterdam"],
+    "Marketing": ["Marketing and Communication department", "Beta partners"],
+    "Cafeteria": ["Cafe", "Coffee place", "Coffee shop", "Coffee"],
+    "IT Desk": ["Tech Support", "IT help desk", "IT support", "IT support desk"],
+    "Security Desk": ["Security", "Security office", "Security desk"],
+    "Student Desk": ["Student support desk", "Student help desk", "Student Affairs"],
+    "VU Bookstore": ["Bookstore", "VU bookstore", "VU Giftshop"]
+}

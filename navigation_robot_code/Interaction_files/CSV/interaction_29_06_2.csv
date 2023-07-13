@@ -1,0 +1,27 @@
+DATE-TIME,USER INPUT,ROBOT RESPONSE,LOG BUTTON,NUMBER OF PEOPLE,TURN,COMMENT
+,,,NEW PERSON,,,
+29-06-2023 15:17,,Hello there! Welcome to Friye University Amsterdam! How can I assist you today?,,,0,
+29-06-2023 15:17,hey we talk to me do you speak,"Of course! I'm Pepper, your friendly robot assistant. How can I help you today?",,,1,
+,END,,,,,
+29-06-2023 15:18,where do I need to be,"Hello! How can I assist you today? Are you looking for a specific location or place on campus? Please let me know the name or description of the place you need to find, and I'll provide you with the directions.",,,2,
+29-06-2023 15:18,,Hello! Welcome to Friye University Amsterdam. How can I assist you today?,,,3,
+,,,DROPOUT,,,
+29-06-2023 15:18,how about chicken,"Oh, chicken! It's a popular food choice for many people. Are you craving some chicken or do you have any specific questions about it?",,,4,
+,,,"INVITE: Greetings! Need some guidance around the campus? I'm Pepper, ready to assist you. Just ask me.",,,
+29-06-2023 15:19,the gardens need some guidance around the campus and pepper ready to assist you just text me,"Hello! I'm Pepper, your friendly robot assistant. I'm here to help you find your way around the campus. How can I assist you today?",,,5,
+29-06-2023 15:19,where looking for a real do,Hello! How can I assist you today? It seems like your message got cut off. Could you please provide more information or clarify your request? I'm here to help!,,,6,
+29-06-2023 15:20,looking for the mainbuilding,"Oh, you're looking for the Main Building! Great! To get to the Main Building, you have two options. 
+
+Option 1: If you're coming from the entrance near me, just take the exit right behind me and the Main Building will be the second building on your left.
+
+Option 2: If you prefer to go through the main street, go straight ahead and exit through the other entrance, then turn right. You'll see the Main Building on your left.
+
+I hope that helps! Let me know if you need directions to any other place.",,,7,
+,,,NEW PERSON,2,,pepople talk continuously
+29-06-2023 15:20,take me to,"Hello! How can I assist you today? If you need directions to a specific place, please let me know the name of the location you would like to go to.",,,8,
+,,,NEW PERSON,1,,
+,,,"INVITE: Hi! I'm Pepper, your friendly robot companion. If you have any queries or need directions, just let me know. I'm here to chat!",,,
+29-06-2023 15:21,Angry Birds give find me robot companion if you have any queries or need directions just let me know and here's a chance,"Hello there! I'm Pepper, your friendly robot companion. How can I assist you today? If you have any queries or need directions, just let me know and I'll be happy to help you out.",,,9,
+,,,NEW PERSON,1,,
+,,,"INVITE: Hi! I'm Pepper, your friendly robot companion. If you have any queries or need directions, just let me know. I'm here to chat!",,,
+29-06-2023 15:22,hi I'm your friendly robot companion if you have any queries or need directions just let me know and here's a chance,"Hi there! I'm Pepper, your friendly robot companion. How can I assist you today? Do you need any directions or have any questions?",,,10,

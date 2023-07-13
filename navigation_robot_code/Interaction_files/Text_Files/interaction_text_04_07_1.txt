@@ -1,0 +1,133 @@
+START INTERACTION
+NEW PERSON
+Greeting Intent
+USER: hi
+Pepper: Hello there! How can I assist you today?
+
+USER: previous
+Pepper: Hello again! How can I assist you this time?
+
+Comments: people find it a little creepy
+USER: what's the weather like
+Pepper: I'm sorry, but as a robot, I don't have the ability to access real-time weather information. However, you can check the weather by using a weather website or app on your smartphone or computer.
+
+Place Recognized: Cafeteria
+USER: where can we find food
+Pepper: You can find food at the cafeteria on this floor. It's located straight ahead. Enjoy your meal!
+
+END
+Conversation Complete: User ended interaction
+USER: bye
+Pepper: Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!
+
+Conversation Complete: User ended interaction
+USER: this is
+Pepper: Hello there! How can I assist you today?
+
+USER: 
+Pepper: I'm sorry, but I didn't catch your message. Could you please repeat it?
+
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+USER: hi need directions are just feel like heading I'm here for you
+Pepper: Hello! I'm here to help you with directions around the campus. Just let me know where you'd like to go, and I'll provide you with the directions.
+
+IGNORED
+IGNORED
+Place Recognized: Birds you send
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to help! 
+IGNORED
+USER: Angry Birds you send me robot companion and here to help
+Pepper: I apologize for any confusion. As a robot companion, I'm here to assist you with directions and provide information about the campus. However, I'm not capable of playing Angry Birds or any other games. If you have any questions or need directions, feel free to ask!
+
+IGNORED
+Place Recognized: need
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+USER: hey need directions are just feel like heading I'm here for you
+Pepper: Hello there! I'm Pepper, and I'm here to help you with directions. Just let me know where you need to go, and I'll provide you with the directions. How can I assist you today?
+
+IGNORED
+Place Recognized: feel
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+IGNORED
+USER: I need directions are just feel like heading I'm here for you
+Pepper: Sure! I'd be happy to help you with directions. Just let me know where you want to go, and I'll provide you with the directions.
+
+IGNORED
+IGNORED
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to help! 
+IGNORED
+USER: hi I never your friend me robot companion and here to help
+Pepper: Hello! It's nice to meet you, my new friend. As your robot companion, I'm here to assist you with any directions or information you need. Just let me know how I can help you, and I'll do my best to assist you.
+
+Place Recognized: looking formation are
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+ACKNOWLEDGED
+USER: greetings looking formation are directions just ask me
+Pepper: Hello there! I'm Pepper, your friendly robot assistant. How can I assist you today? Do you need any directions or information about a specific location on campus? Just let me know and I'll be happy to help!
+
+Comments: person waves back and keeps walking
+NEW PERSON
+DROPOUT
+USER: Marvin
+Pepper: Hello Marvin! How can I assist you today? Do you need any directions or information about a specific location on campus? Just let me know and I'll be happy to help!
+
+USER: 
+Pepper: Hello! How can I assist you today? If you have any questions or need directions, feel free to ask.
+
+Place Recognized: I'm your friendly
+INVITE: Hi! I'm Pepper, your friendly robot companion. I'm here to help! 
+IGNORED
+USER: hi I'm your friendly robot companion I'm here to help
+Pepper: Hello there, friendly robot companion! It's great to have you here. How can I assist you today?
+
+Greeting Intent
+IGNORED
+USER: Spar shop
+Pepper: The Spar shop is located at campus square close to the basketball court. You can take the exit right behind me, walk straight ahead, and then turn left. Enjoy your visit to the Spar shop!
+
+ACKNOWLEDGED
+Comments: pepper responds to random noise
+Place Recognized: Spar
+USER: spar
+Pepper: The Spar store is located at campus square close to the basketball court. Take the exit right behind me, walk straight ahead, and then turn left. Enjoy your visit to Spar!
+
+Place Recognized: need
+INVITE: Hi! Need directions or just feel like chatting? I'm here for you!
+NEW PERSON
+USER: hi need directions are just feel like heading here
+Pepper: Hi there! Sure, I'd be happy to help you with directions. Just let me know where you'd like to go, and I'll provide you with the directions.
+
+USER:  do you
+Pepper: Do I what? Could you please clarify your question or let me know what you need assistance with?
+
+Place Recognized: dance
+USER: yes dance floor please
+Pepper: I'm sorry, but there is no specific dance floor mentioned in the provided directions. If you're looking for a place to dance, you might want to check out nearby clubs or event venues in the area. Is there anything else I can assist you with?
+
+Place Recognized: event
+USER: I want to go to Amsterdam dance event
+Pepper: I'm sorry, but I don't have the specific directions for the Amsterdam Dance Event. However, the Amsterdam Dance Event is a popular music festival that takes place at various locations in Amsterdam. I recommend checking their official website or contacting the event organizers for detailed information on the venue and directions. Enjoy the event!
+
+Place Recognized: are you it'
+NEW PERSON
+USER: how are you it's where is the computer science department
+Pepper: Hello! I'm Pepper, your friendly robot assistant. I'm here to help you find your way around the campus. The Computer Science department is located on the 10th, 11th, and 12th floors of Wing A. To get there, you can take the lifts straight ahead and to the left, near the other entrance. If you have any other questions or need further assistance, feel free to ask!
+
+Place Recognized: I
+USER: how do I get to lift
+Pepper: To get to the lifts, you can follow these directions: The lifts for Wings B and C are behind me to the left. The lifts for Wing A are straight ahead and to the left, near the other entrance. Just head in that direction and you'll find the lifts. Let me know if there's anything else I can help you with!
+
+END
+Conversation Complete: User ended interaction
+USER: thank you
+Pepper: You're welcome! If you have any questions or need assistance, feel free to ask. I'm here to help!
+
+Conversation Complete: User ended interaction
+Place Recognized: looking for
+INVITE: Greetings! Looking for some information or directions? Just ask me.
+IGNORED
+USER: greetings looking for some information or directions just ask me
+Pepper: Hello! I'm Pepper, your friendly robot assistant. How can I assist you today? Just let me know what information or directions you're looking for, and I'll do my best to help you out!
+

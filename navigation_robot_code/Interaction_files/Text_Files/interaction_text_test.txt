@@ -1,0 +1,13 @@
+START INTERACTION
+INVITE: Hey, feel like having a conversation? I'm here to listen and chat!
+USER: hey do you like having a conversation and here to listen and chat
+Pepper: Hey there! Absolutely, I'm here to have a conversation and chat with you. How can I assist you today?
+
+Place Recognized: band
+USER: where is the IT band
+Pepper: I'm sorry, but I couldn't find any information about an "IT band" in the provided places and directions. Could you please provide more details or clarify?
+
+Place Recognized: IT Desk
+USER: the it desk
+Pepper: The IT Desk is located on the ground floor of the OZW building. You can find it by taking either exit and heading towards the OZW building.
+

@@ -1,0 +1,209 @@
+{
+  "id": "9177dceb-5c0f-4f38-85a8-78dc353c74cf",
+  "name": "stop_conversation",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "2eaf2eee-1539-4744-90b2-b022464df88a",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "goodbye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "00471467-f0ce-49dc-b7da-ea14da7364a0",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "adios",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "4c4f27d5-ca08-4978-a043-999889deb042",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see you",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "1a6f555d-0c21-48b7-837d-bb682bb3fe11",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "stop",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "talking",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "f88427d2-bcf8-4d97-b228-e9d2cf15f08b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "ok thanks",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "ae270d5a-1146-4258-a9ff-38d1fa111661",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Ok bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "5722232d-098d-4209-91b6-83422f5a6391",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I am ",
+          "userDefined": false
+        },
+        {
+          "text": "leaving",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "f45df73a-3a4a-4d59-bedc-5f98441b9a25",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I need to ",
+          "userDefined": false
+        },
+        {
+          "text": "leave",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "05c978b3-cf1e-4d9b-92e6-029c29e9e88b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I need to ",
+          "userDefined": false
+        },
+        {
+          "text": "go",
+          "userDefined": true,
+          "meta": "@sys.ignore",
+          "alias": null
+        },
+        {
+          "text": " now",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "50fc147a-7373-4d3e-a8da-21d6698c2ca3",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Stop",
+          "userDefined": false,
+          "meta": "@sys.ignore",
+          "alias": null
+        }
+      ],
+      "count": 0,
+      "id": "5e2d7f7b-df67-4666-97d1-ffeccfacc9c6",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}
